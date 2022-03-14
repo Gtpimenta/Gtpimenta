@@ -11,26 +11,26 @@
 
 ##
 <h3> Languages and Tools </h3>
-<h5> Python </h5>
+<h4> Python </h4>
 
 - Exploratory Data Analysis
 - ETL (Pandas, Scikit-Learn)
 - Machine Learning (Scikit-Learn)
 - Data Visualization (Matplotlib, Seaborn)
 
-<h5> R </h5>
+<h4> R </h4>
 
 - Exploratory Data Analysis
 - ETL (dplyr)
 - Machine Learning (Caret)
 - Data Visualization (ggplot2)
 
-<h5> MySQL </h5>
+<h4> MySQL </h4>
 
 - Queries
 - EDA
 
-<h5> Power BI </h5>
+<h4> Power BI </h4>
 
 - Dashboards
 - ETL (PowerQuery)
