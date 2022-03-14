@@ -29,7 +29,7 @@
 <h4> MySQL </h4>
 
 - Queries
-- EDA
+- Exploratory Data Analysis
 
 <h4> Power BI </h4>
 
