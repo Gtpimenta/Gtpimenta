@@ -5,9 +5,10 @@
 
 ##
 
-- 🌱 I’m currently studying Data Science and Analytics at ESALQ/USP
-- 👯 I’m looking to collaborate on machine learning projects
-- 🤔 I’m looking for an opportunity to work as a data scientist
+- 🌱 I’m currently studying Data Science and Analytics at ESALQ/USP;
+- 👯 I’m looking to collaborate on machine learning projects;
+- 🤔 I’m looking for an opportunity to work as a data scientist;
+- ⚡ Fun fact: Python may be my favorite language, but I prefer R for statistical analysis.
 
 ##
 <h3> Languages and Tools </h3>
