@@ -12,29 +12,16 @@
 
 ##
 <h3> Languages and Tools </h3>
-<h4> Python </h4>
-
-- Exploratory Data Analysis
-- ETL (Pandas, Scikit-Learn)
-- Machine Learning (Scikit-Learn)
-- Data Visualization (Matplotlib, Seaborn)
-
-<h4> R </h4>
-
-- Exploratory Data Analysis
-- ETL (dplyr)
-- Machine Learning (Caret)
-- Data Visualization (ggplot2)
-
-<h4> MySQL </h4>
-
-- Queries
-- Exploratory Data Analysis
-
-<h4> Power BI </h4>
-
-- Dashboards
-- ETL (PowerQuery)
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/favicon_white.ico" />
+<img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" />
+<img align="left" alt="Seaborn" width="26px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />
+<img align="left" alt="Scikit-Learn" width="26px" src="https://avatars-03.gitter.im/group/iv/4/57542cd7c43b8c60197770d2" />
+<img align="left" alt="Scipy" width="26px" src="https://images.opencollective.com/scipy/c7e4afc/logo/256.png" />
+<img align="left" alt="R" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/r-5-283170.png" />
+<img align="left" alt="Tidyverse" width="26px" src="https://styles.redditmedia.com/t5_12toss/styles/communityIcon_t8878p287f331.png" />
+<img align="left" alt="MySQL" width="26px" src="https://logospng.org/download/mysql/mysql-256.png" />
+<img align="left" alt="Power BI" width="26px" src="https://i0.wp.com/www.fourmoo.com/wp-content/uploads/2020/11/PowerBI.256x256.png?fit=256%2C256&ssl=1" />
 
 ##
 <h3> Contact </h3>
