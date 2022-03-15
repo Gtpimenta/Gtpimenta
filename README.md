@@ -1,7 +1,6 @@
 ### Hello there 👋 I'm Gabriel Pimenta
 
-👉 Bachelor degree in Electrical Engineering from Universidade Paulista <br>
-👉 Currently specializing in Data Science and Analytics at ESALQ/USP
+Hey everyone, my name is Gabriel Tavares Pimenta, 24 years, brazilian. Since I was a young boy, I've been interested in math, science and technology, reason why I went to engineering school. Currently I'm specializing in Data Science and Analytics and working on some projects to learn more about it.
 
 ##
 
