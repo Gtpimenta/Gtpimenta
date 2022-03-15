@@ -22,6 +22,7 @@
 <img align="left" alt="Tidyverse" width="26px" src="https://styles.redditmedia.com/t5_12toss/styles/communityIcon_t8878p287f331.png" />
 <img align="left" alt="MySQL" width="26px" src="https://logospng.org/download/mysql/mysql-256.png" />
 <img align="left" alt="Power BI" width="26px" src="https://i0.wp.com/www.fourmoo.com/wp-content/uploads/2020/11/PowerBI.256x256.png?fit=256%2C256&ssl=1" />
+<br>
 
 ##
 <h3> Contact </h3>
