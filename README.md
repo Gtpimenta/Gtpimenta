@@ -16,7 +16,8 @@ Hey everyone, my name is Gabriel Tavares Pimenta, 26 years, brazilian and this i
 <img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/favicon_white.ico" />
 <img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" />
 <img align="left" alt="Seaborn" width="26px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />
-<img align="left" alt="Scikit-Learn" width="26px" src="https://avatars-03.gitter.im/group/iv/4/57542cd7c43b8c60197770d2](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Scrapy" width="26px" src="https://img.stackshare.io/service/3116/LJ_Gsz28_400x400.png" />
+<img align="left" alt="Scikit-Learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Scipy" width="26px" src="https://images.opencollective.com/scipy/c7e4afc/logo/256.png" />
 <img align="left" alt="R" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/r-5-283170.png" />
 <img align="left" alt="SQL" width="26px" src="[https://logospng.org/download/mysql/mysql-256.png](https://cdn-icons-png.flaticon.com/512/9544/9544010.png)" />
