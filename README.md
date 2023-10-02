@@ -7,7 +7,8 @@ Hey everyone, my name is Gabriel Tavares Pimenta, 26 years, brazilian and this i
 - 🌱 I’m currently working as Data Acquisition Analyst at EEmovel;
 - 👯 I’m looking to collaborate on machine learning projects;
 - 🤔 I’m always working on some projects so I can improve my skills;
-- ⚡ Fun fact: Python may be my favorite language, but I prefer R for statistical analysis.
+- ⚡ Fun fact: Python may be my favorite language, but I prefer R for statistical analysis;
+- ⌛  I've been working with data since 2022.
 
 ##
 <h3> Languages and Tools </h3>
