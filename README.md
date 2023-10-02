@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Gabriel Pimenta
 
-Hey everyone, my name is Gabriel Tavares Pimenta, 24 years, brazilian. Since I was a young boy, I've been interested in math, science and technology, reason why I went to engineering school. Currently I'm specializing in Data Science and Analytics as well as working on some projects to learn more about it.
+Hey everyone, my name is Gabriel Tavares Pimenta, 26 years, brazilian and this is my data repository. I've been always interested on math, science and technology, so I found in data a place where I could fit in.
 
 ##
 
