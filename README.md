@@ -4,9 +4,9 @@ Hey everyone, my name is Gabriel Tavares Pimenta, 26 years, brazilian and this i
 
 ##
 
-- 🌱 I’m currently studying Data Science and Analytics at ESALQ/USP;
+- 🌱 I’m currently working as Data Acquisition Analyst at EEmovel;
 - 👯 I’m looking to collaborate on machine learning projects;
-- 🤔 I’m looking for an opportunity to work as a data scientist;
+- 🤔 I’m always working on some projects so I can improve my skills;
 - ⚡ Fun fact: Python may be my favorite language, but I prefer R for statistical analysis.
 
 ##
@@ -15,11 +15,10 @@ Hey everyone, my name is Gabriel Tavares Pimenta, 26 years, brazilian and this i
 <img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/favicon_white.ico" />
 <img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" />
 <img align="left" alt="Seaborn" width="26px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />
-<img align="left" alt="Scikit-Learn" width="26px" src="https://avatars-03.gitter.im/group/iv/4/57542cd7c43b8c60197770d2" />
+<img align="left" alt="Scikit-Learn" width="26px" src="[https://avatars-03.gitter.im/group/iv/4/57542cd7c43b8c60197770d2](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png)" />
 <img align="left" alt="Scipy" width="26px" src="https://images.opencollective.com/scipy/c7e4afc/logo/256.png" />
 <img align="left" alt="R" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/r-5-283170.png" />
-<img align="left" alt="Tidyverse" width="26px" src="https://styles.redditmedia.com/t5_12toss/styles/communityIcon_t8878p287f331.png" />
-<img align="left" alt="MySQL" width="26px" src="https://logospng.org/download/mysql/mysql-256.png" />
+<img align="left" alt="SQL" width="26px" src="[https://logospng.org/download/mysql/mysql-256.png](https://cdn-icons-png.flaticon.com/512/9544/9544010.png)" />
 <img align="left" alt="Power BI" width="26px" src="https://i0.wp.com/www.fourmoo.com/wp-content/uploads/2020/11/PowerBI.256x256.png?fit=256%2C256&ssl=1" />
 <br>
 
