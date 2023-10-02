@@ -20,7 +20,7 @@ Hey everyone, my name is Gabriel Tavares Pimenta, 26 years, brazilian and this i
 <img align="left" alt="Scikit-Learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Scipy" width="26px" src="https://images.opencollective.com/scipy/c7e4afc/logo/256.png" />
 <img align="left" alt="R" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/r-5-283170.png" />
-<img align="left" alt="SQL" width="26px" src="[https://logospng.org/download/mysql/mysql-256.png](https://cdn-icons-png.flaticon.com/512/9544/9544010.png)" />
+<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/9544/9544010.png" />
 <img align="left" alt="Power BI" width="26px" src="https://i0.wp.com/www.fourmoo.com/wp-content/uploads/2020/11/PowerBI.256x256.png?fit=256%2C256&ssl=1" />
 <br>
 
